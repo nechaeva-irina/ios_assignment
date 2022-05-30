@@ -1,0 +1,8 @@
+{
+    "iOS": {
+        "platformName": "iOS",
+        "platformVersion": "15.5",
+        "deviceName": "iPhone 12",
+        "app": "/Users/irina/Library/Developer/Xcode/DerivedData/UIKitCatalog-dlbjlrwftlqofobnrmtkmtsoixem/Build/Products/Debug-iphonesimulator/UIKitCatalog.app"
+    }
+}
