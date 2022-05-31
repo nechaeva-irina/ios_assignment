@@ -10,5 +10,6 @@ These approaches together with pytest framework provide high scalability, allow 
 ### To run the tests on your local machine
 1. Clone the current repo
 2. Install dependancies, listed in `requirements.txt`
-3. Run Appium
-4. In the command line open cloned repo directory and run `python -m py.test tests`
+3. Change desired capabilities in `target.json` if needed
+4. Run Appium
+5. In the command line open cloned repo directory and run `python -m py.test tests`
