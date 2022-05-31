@@ -8,7 +8,7 @@ This project is designed using page object and data driven approaches:
 These approaches together with pytest framework provide high scalability, allow tests reusage with different input values and make adding new tests much easier.       
 
 ### To run the tests on your local machine
-1. Clone the current repo
+1. Clone the current repository
 2. Install dependancies, listed in `requirements.txt`
 3. Change desired capabilities in `target.json` if needed
 4. Run Appium
