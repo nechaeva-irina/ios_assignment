@@ -1,4 +1,5 @@
-from model.testdata_model import Values
+from model.switches_model import SwitchesValues
 
 testdata = [
-    Values(switches_value=0, steppers_value=10, sliders_value=1, picker_red=80, picker_blue=100, picker_green=200)]
+    SwitchesValues(tinted=0)
+]
